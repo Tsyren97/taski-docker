@@ -11,7 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '51.250.23.197', 'mytaski.redirectme.net']
 
 
-# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
